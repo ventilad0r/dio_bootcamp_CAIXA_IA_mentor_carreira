@@ -1,0 +1,143 @@
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Analytics Translator (Negócio + Dados + IA):
+
+Traduzir problemas de negócio em perguntas analíticas (ex.: “por que a carteira X perdeu rentabilidade?” → hipóteses e métricas).
+Conectar pessoas (liderança, áreas de negócio, time de dados/BI/DS) garantindo alinhamento, prazos e impacto.
+Definir métricas e critérios de sucesso (OKRs, KPIs, baseline, meta, impacto esperado).
+Priorizar iniciativas e construir business cases (custo x benefício, risco, viabilidade, dependências).
+Contar a história com dados (dashboards, apresentações, insights, recomendações acionáveis e acompanhamento pós-implementação).
+
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Pensamento analítico orientado a decisão (hipóteses, métricas, causalidade vs correlação, trade-offs).
+Tradução negócio ↔ dados (formular problema, requisitos, critérios de sucesso, comunicação com times técnicos).
+Storytelling e influência (narrativa executiva, recomendação, gestão de stakeholders, condução de reuniões).
+
+NICE-TO-HAVE (complementares):
+
+Fundamentos de IA e experimentação (A/B test, uplift, modelos supervisionados, avaliação, vieses).
+Gestão ágil e produto (backlog, discovery, priorização, user stories, definição de valor).
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Excel/Google Sheets avançado (tabelas dinâmicas, funções, Power Query como bônus)
+SQL (SELECT, JOIN, GROUP BY, HAVING, CTEs; leitura de dados em bases)
+Power BI (modelagem simples, medidas DAX básicas, visualização e publicação)
+(Bônus alinhado ao seu contexto) Databricks/SQL padrão e noções de Python para leitura/limpeza quando fizer sentido
+
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 4 horas/semana
+
+Regra do jogo: pouco tempo = essencial + prática enxuta toda semana.
+Sugestão de rotina: 2 blocos de 2h (ex.: ter/qui) ou 4 blocos de 1h (seg-ter-qui-sex).
+
+
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+
+Mentalidade do Analytics Translator: aprender a estrutura “Problema → Hipóteses → Métricas → Dados → Insight → Ação → Impacto”.
+Base de SQL (mínimo viável): SELECT, WHERE, ORDER BY, agregações (COUNT/SUM/AVG), GROUP BY, filtros com HAVING.
+
+SEMANA 3-4:
+
+Fundamentos de métricas e negócio: KPI vs métrica de vaidade, funil, cohort simples, margem/receita/custo, inadimplência (exemplos bancários).
+Excel/Sheets para análise rápida: tabelas dinâmicas, PROCV/XLOOKUP, SE, SOMASES, gráficos claros e “1 slide = 1 mensagem”.
+
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Power BI do zero ao funcional: importar dados, tratar (Power Query básico), relacionamentos simples, 4–6 visuais úteis.
+DAX essencial (sem exagero): SUM, COUNTROWS, CALCULATE, medidas de variação (YoY/MoM) e segmentação.
+
+SEMANA 7-8:
+
+Casos de uso reais do seu dia a dia (bancário/gestão): escolher 2 problemas típicos (ex.: rentabilidade por segmento; churn/ativação; eficiência comercial).
+Comunicação executiva: praticar “One-Pager” (1 página) com: contexto, dado-chave, insight, recomendação, impacto esperado e próximos passos.
+
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Construir o projeto de portfólio (versão 1): dados, modelo, dashboard e narrativa.
+Camada de IA/insights (leve e aplicável): incluir um componente de “priorização por impacto” ou “explicação por drivers” (mesmo que seja análise exploratória bem feita).
+
+SEMANA 11-12:
+
+Refinar portfólio para padrão entrevista: README, prints, explicação do raciocínio, limitações e próximos passos.
+Treino de entrevistas + pitch: roteiro de 60–90 segundos sobre você + 3 histórias STAR (Situação–Tarefa–Ação–Resultado).
+
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: “Painel Executivo de Oportunidades e Risco da Carteira”
+O QUE FAZER:
+Construir um mini-projeto completo simulando seu papel como Analytics Translator:
+
+definir um problema de gestão (ex.: aumentar rentabilidade e reduzir risco),
+escolher métricas (receita, margem, inadimplência, churn/atividade, ticket),
+analisar dados (SQL/Excel),
+entregar um dashboard (Power BI) com recomendações acionáveis.
+
+Você pode usar uma base pública (vendas/CRM) ou uma base “anonimizada” criada por você (sem dados sensíveis do trabalho).
+ENTREGÁVEIS:
+
+Dashboard Power BI (visão executiva + visão analítica com filtros por segmento/canal/período).
+Documento 1 página (One-Pager) com problema, hipóteses, métricas, insights e plano de ação.
+Repositório (GitHub ou pasta organizada) com dataset, dicionário de dados e README explicando o raciocínio.
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Clareza executiva: em 2 minutos alguém entende “o que está acontecendo e o que fazer”.
+Rastreabilidade: cada insight tem métrica, recorte e evidência (não é “achismo”).
+Ação + impacto: recomendações têm prioridade (alto/médio/baixo), esforço e impacto estimado.
+
+DICA:
+Escolha um único foco (ex.: “rentabilidade por segmento + risco”) e faça simples, bem feito. Com 4h/semana, vencer é terminar, não “perfeccionizar”.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: “O que faz um Analytics Translator na prática?”
+COMO RESPONDER:
+“Eu atuo como ponte entre negócio e dados. Começo entendendo o problema e definindo métricas de sucesso. Depois traduzo isso em perguntas analíticas e requisitos para BI/DS, acompanho a construção e valido se a entrega responde ao problema. Por fim, transformo os achados em recomendações acionáveis, alinhando stakeholders e medindo impacto.”
+
+PERGUNTA 2: “Conte um exemplo de como você usou dados para tomar uma decisão.”
+COMO RESPONDER (modelo STAR):
+
+Situação: “Eu precisava melhorar um resultado X (rentabilidade/eficiência/adesão).”
+Tarefa: “Entender drivers e propor ações priorizadas.”
+Ação: “Defini métricas, segmentei clientes, comparei períodos, identifiquei 2–3 fatores principais e simulei cenários.”
+Resultado: “A decisão foi tomada com base em evidências e gerou melhoria/controle de risco/ganho de eficiência (mesmo que qualitativo, cite um indicador ou efeito).”
+
+
+Dica: se ainda não tiver um caso “tech”, use casos reais de gestão no banco com análise em Excel e raciocínio estruturado.
+
+
+PERGUNTA 3: “Como você define um KPI bom?”
+COMO RESPONDER:
+“Um KPI bom é ligado ao objetivo do negócio, é mensurável com dados confiáveis, tem dono, frequência clara e meta definida. Ele precisa orientar decisão: se o KPI muda, eu sei quais alavancas investigar. Eu também evito métricas de vaidade e busco decompor o KPI em drivers para ação.”
+
+PERGUNTA 4: “Como você lida com conflito entre áreas (negócio vs dados)?”
+COMO RESPONDER:
+“Eu volto ao objetivo e ao critério de sucesso, e uso uma linguagem comum: impacto, prazo, risco e esforço. Transformo opiniões em hipóteses testáveis, proponho um MVP de análise para destravar e mantenho comunicação frequente. Se necessário, escalo decisões com opções claras e trade-offs.”
+
+PERGUNTA 5: “Qual seu nível de SQL/BI/IA?”
+COMO RESPONDER:
+“Estou construindo a base técnica com foco em impacto. Em SQL, consigo consultar, agregar e juntar tabelas para análises comuns. Em BI (Power BI), consigo modelar dados simples e criar dashboards com medidas essenciais. Em IA, conheço fundamentos e sei quando faz sentido aplicar — sempre priorizando métricas, validação e governança. Meu diferencial é traduzir necessidade e entregar decisão.”
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Power BI Analyst (DIO)
+POR QUE ESSA TRILHA:
+Ela acelera seu caminho para entregar valor rápido como Analytics Translator: você aprende a construir dashboards, modelar dados, criar métricas e apresentar insights — exatamente o tipo de entrega que gera influência e visibilidade em ambientes de gestão, mesmo com pouco tempo disponível.
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+Busque por "Formação Power BI Analyst"
+Inscreva-se gratuitamente
+Siga o cronograma junto com este roadmap
+
+
+✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica — por exemplo, um cronograma semanal bem certinho (2x2h), ou ideias de datasets para o projeto que combinem com sua realidade no banco (sem usar dados sensíveis).
